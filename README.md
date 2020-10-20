@@ -1,5 +1,5 @@
 # MyChatCord
-MyChatCord is a basic discord-like chatting application for developers created with Javascript, HTML-CSS, MongoDB. It was inspired from [this tutorial](https://www.youtube.com/watch?v=jD7FnbI76Hg&t=1339s) by Brad Traversy. I improved the application by implementing a realtime database for storing rooms and active users.
+MyChatCord is a basic discord-like chatting application for developers created with Javascript, HTML-CSS, MongoDB. It was inspired from [this tutorial](https://www.youtube.com/watch?v=jD7FnbI76Hg&t=1339s) by Brad Traversy. I improved the application by implementing a realtime database for storing rooms and active users. View the live demo [here](https://serene-lowlands-43791.herokuapp.com/)
 
 ## Installation
 ```
